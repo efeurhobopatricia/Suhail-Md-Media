@@ -46,19 +46,19 @@ const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
 var surl = 'https://github.com/SuhailTechInfo/Suhail-Md' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+const number = '348078582627'
+var name = ' ★彡[ᴏɴʟʏ_ᴏɴᴇ_🥇ᴇᴍᴘɪʀᴇ]彡★'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+var image = 'https://telegra.ph/file/4621db0bc994814da1c9c.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
-│ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
-│ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+│ Name      : ★彡[ᴏɴʟʏ_ᴏɴᴇ_🥇ᴇᴍᴘɪʀᴇ]彡★
+│ Place       : Nigeria
+│ Gender    :  Male
+│ Age          : 20
+│ Phone     : wa.me/2348078582627
+│ Youtube   : www.youtube.com/@Only_one_empire
+│ Status     : Web Developer, Graphic designer
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
